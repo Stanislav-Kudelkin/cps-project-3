@@ -1,15 +1,15 @@
 const brandLogos = [
-    { image: "./images/Bitmap (1).svg", alt: "Логотип - Lenovo" },
-    { image: "./images/Bitmap (2).svg", alt: "Логотип - Samsung" },
-    { image: "./images/Bitmap (3).svg", alt: "Логотип - Appl" },
-    { image: "./images/Bitmap (4).svg", alt: "Логотип - ViewSonic" },
-    { image: "./images/Bitmap (5).svg", alt: "Логотип - Bosch" },
-    { image: "./images/Bitmap (6).svg", alt: "Логотип - HP" },
-    { image: "./images/Bitmap (7).svg", alt: "Логотип - Acer" },
-    { image: "./images/Bitmap (8).svg", alt: "Логотип - Sony" },
-    { image: "./images/Bitmap (1).svg", alt: "Логотип - Lenovo" },
-    { image: "./images/Bitmap (2).svg", alt: "Логотип - Samsung" },
-    { image: "./images/Bitmap (3).svg", alt: "Логотип - Appl" },
+    { image: "./assets/images/Bitmap (1).svg", alt: "Логотип - Lenovo" },
+    { image: "./assets/images/Bitmap (2).svg", alt: "Логотип - Samsung" },
+    { image: "./assets/images/Bitmap (3).svg", alt: "Логотип - Appl" },
+    { image: "./assets/images/Bitmap (4).svg", alt: "Логотип - ViewSonic" },
+    { image: "./assets/images/Bitmap (5).svg", alt: "Логотип - Bosch" },
+    { image: "./assets/images/Bitmap (6).svg", alt: "Логотип - HP" },
+    { image: "./assets/images/Bitmap (7).svg", alt: "Логотип - Acer" },
+    { image: "./assets/images/Bitmap (8).svg", alt: "Логотип - Sony" },
+    { image: "./assets/images/Bitmap (1).svg", alt: "Логотип - Lenovo" },
+    { image: "./assets/images/Bitmap (2).svg", alt: "Логотип - Samsung" },
+    { image: "./assets/images/Bitmap (3).svg", alt: "Логотип - Appl" },
 ];
 
 let buttonTemplate = document.querySelector('#button-template').content;

@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TTLakes2";
-    src: url("./fonts/TTLakes2/TTLakes-Regular.woff") format("woff");
+    src: url("/assets/fonts/TTLakes2/TTLakes-Regular.woff") format("woff");
 }
 
 body {
@@ -79,7 +79,7 @@ body {
     display: inline-block;
     width: 10px;
     height: 11px;
-    background-image: url(./images/icon.svg);
+    background-image: url(./assets/images/icon.svg);
     background-repeat: no-repeat;
     margin: 0 10px 0 10px;
     transform-style: preserve-3d;
@@ -96,7 +96,7 @@ body {
 }
 
 .button-item {
-    background-image: url(./images/go.svg);
+    background-image: url(./assets/images/go.svg);
     background-color: transparent;
     width: 40px;
     height: 40px;
