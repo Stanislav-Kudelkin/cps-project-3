@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TTLakes2";
-    src: url("/assets/fonts/TTLakes2/TTLakes-Regular.woff") format("woff");
+    src: url("./assets/fonts/TTLakes2/TTLakes-Regular.woff") format("woff");
 }
 
 body {
